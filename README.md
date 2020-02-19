@@ -1,4 +1,4 @@
-# Pengebangan Web Lanjut Institut Teknologi Sumatera
+# Pengembangan Web Lanjut Institut Teknologi Sumatera
 
 Instruksi untuk mengirim nama, link git dan nim. Ikuti langkah berikut :
 
@@ -9,6 +9,7 @@ Instruksi untuk mengirim nama, link git dan nim. Ikuti langkah berikut :
 3. Lanjutkan daftar absen dengan menambahkan table nama , nim dan link git pada README.md kalian.
 
 Contoh:
+
 `
 |\<namalu>|\<nimlu>|\<linkgitlu>|
 `
