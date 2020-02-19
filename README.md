@@ -23,10 +23,10 @@ ubah ke
 
 ## Daftar Absen
 
-| Nama Lu| NIM Lu | Link Git Lu |
+| Nama Lu| NIM Lu | Link Git Tugas Lu |
 |--|--|--|
-|Karen Kobayashi| 3507152 | https://github.com/OgataKaede |
-|Kobayashi Karen|3507152|https://github.com/OgataKaede|
+|Karen Kobayashi| 3507152 | https://github.com/OgataKaede/TugasPWL |
+|Dimas Adiyaksa | 14116047 | github.com/dimasadyaksa/TugasPWL |
 |\<namalu>|\<nimlu>|\<linkgitlu>|
 
 ### Lanjutin
