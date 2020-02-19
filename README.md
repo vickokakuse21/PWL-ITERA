@@ -26,6 +26,7 @@ ubah ke
 | Nama Lu| NIM Lu | Link Git Lu |
 |--|--|--|
 |Karen Kobayashi| 3507152 | https://github.com/OgataKaede |
+|Dimas Adiyaksa | 14116047 | github.com/dimasadyaksa |
 |\<namalu>|\<nimlu>|\<linkgitlu>|
 
 ### Lanjutin
