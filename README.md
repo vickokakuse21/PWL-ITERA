@@ -1,4 +1,4 @@
-# Pemngebangan Web Lanjut Institut Teknologi Sumatera
+# Pengebangan Web Lanjut Institut Teknologi Sumatera
 
 Instruksi untuk mengirim nama, link git dan nim. Ikuti langkah berikut :
 
@@ -20,8 +20,7 @@ ubah ke
 4. kemudian push hasil peruban tersebut ke github.Pastikan formatnya sesuai baru lakukan pull request.
 5. lalu lakukan pull request ke repo OgataKaede/PWL-ITERA.
 
---- Tulis Nama seperti ini ---
-
+## Daftar Absen
 
 | Nama Lu| NIM Lu | Link Git Lu |
 |--|--|--|
