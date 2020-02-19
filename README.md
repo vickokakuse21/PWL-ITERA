@@ -26,6 +26,7 @@ ubah ke
 | Nama Lu| NIM Lu | Link Git Lu |
 |--|--|--|
 |Karen Kobayashi| 3507152 | https://github.com/OgataKaede |
+|Kobayashi Karen|3507152|https://github.com/OgataKaede|
 |\<namalu>|\<nimlu>|\<linkgitlu>|
 
 ### Lanjutin
