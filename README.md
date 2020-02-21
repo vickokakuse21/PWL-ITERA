@@ -27,6 +27,7 @@ ubah ke
 |--|--|--|
 |Karen Kobayashi| 3507152 | https://github.com/OgataKaede/TugasPWL |
 |Dimas Adiyaksa | 14116047 | github.com/dimasadyaksa/TugasPWL |
+|Nur Ali Majid	| 14115015 | https://github.com/majidilkhithar/PWL-ITERA |
 |\<namalu>|\<nimlu>|\<linkgitlu>|
 
 ### Lanjutin
