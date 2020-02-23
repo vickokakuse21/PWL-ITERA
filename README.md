@@ -6,12 +6,12 @@ Instruksi untuk mengirim nama, link git dan nim. Ikuti langkah berikut :
 2. Clone repo hasil fork : https://github.com/ username kamu /PWL-ITERA, pada git terminal kalian.
 > git clone  https://github.com/ username kamu /PWL-ITERA
 
-3. Lanjutkan daftar absen dengan menambahkan table nama , nim dan link git pada README.md kalian.
+3. Lanjutkan daftar absen dengan menambahkan table nama , nim dan link git repo yang berisikan tugas anda. pada README.md kalian.
 
 Contoh:
 
 `
-|\<namalu>|\<nimlu>|\<linkgitlu>|
+|\<namalu>|\<nimlu>|\<linkgittugaslu>|
 `
 ubah ke
 `
