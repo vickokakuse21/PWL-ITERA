@@ -29,6 +29,7 @@ ubah ke
 |Dimas Adiyaksa | 14116047 | github.com/dimasadyaksa/TugasPWL |
 |Nur Ali Majid	| 14115015 | https://github.com/majidilkhithar/14115015-PWL |
 |RaviPrayoga    | 14116081 | https://github.com/raviprayoga/14116081-PWL |
+|Nurma Yunita Sari | 14117085 | https://github.com/nrmynitasr/PWL |
 |\<namalu>|\<nimlu>|\<linkgitlu>|
 
 ### Lanjutin
