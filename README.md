@@ -34,6 +34,8 @@ ubah ke
 |Laurensius Joshua Anrico Agustinus | 14117141 | https://github.com/joshuaanrico/14117141-PWL |
 |Dhiko JangJaya Putra | 14117016 | https://github.com/magisto16/14117016-PWL-ITERA |
 |Nurul Hakim    | 14117029 | https://github.com/NurulHakim/14117029-PWL |
+|Annisa Gita Asmara | 14116027 | https://github.com/aannisagita/Tugas-PWL1 |
+
 |\<namalu>|\<nimlu>|\<linkgitlu>|
 
 ### Lanjutin
