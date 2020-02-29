@@ -52,6 +52,7 @@ ubah ke
 |Virdannisa Selqy Satphira | 14117014 | https://github.com/VirdannisaSelqy/Tugas_PWL_14117014 |
 |Febiola Agatha | 14117120 | https://github.com/febiolagatha/14117120-PWL |
 |Abbi Kurnia R.K. | 14117160 | https://github.com/remnantmemoir/14117160-PWLTugas1 |
+|M. Anas Nasrulloh | 14117028 | https://github.com/AnasNasrull/14117028-PWL |
 
 |\<namalu>|\<nimlu>|\<linkgitlu>|
 
