@@ -38,6 +38,7 @@ ubah ke
 |Agustino Rahmawan|14116029|https://github.com/AgusRahm/14116029-PWL|
 |Sartiah| 14116166 | https://github.com/Sartiah/14116166-TUGAS1PWL.git |
 |Febri Dwi Putro | 14116020 | https://github.com/febridwip/praktikum-pwl |
+|Aan Sanova | 14116175 | https://github.com/papzaan/TugasPWL |
 
 |\<namalu>|\<nimlu>|\<linkgitlu>|
 
