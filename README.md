@@ -53,6 +53,7 @@ ubah ke
 |Febiola Agatha | 14117120 | https://github.com/febiolagatha/14117120-PWL |
 |Abbi Kurnia R.K. | 14117160 | https://github.com/remnantmemoir/14117160-PWLTugas1 |
 |M. Anas Nasrulloh | 14117028 | https://github.com/AnasNasrull/14117028-PWL |
+|Aan Sanova | 14116175 | https://github.com/Papzaan/Praktikum1 |
 
 |\<namalu>|\<nimlu>|\<linkgitlu>|
 
