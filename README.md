@@ -46,6 +46,8 @@ ubah ke
 |Dewi Rahayu | 14116056 | https://github.com/dewirahayu11/14116056-PWL |
 |Fadila Eka Noperta | 14116021 | https://github.com/fadilaekanoperta/14116021-PWL1 |
 |Aldi Indrawan|14117055|https://github.com/aldiindrawan12/14117055-PWL|
+|Muhammad Affandi| 14117034 | https://github.com/affandi99/14117034-PWL |
+
 
 |\<namalu>|\<nimlu>|\<linkgitlu>|
 
