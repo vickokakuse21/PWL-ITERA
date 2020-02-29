@@ -36,7 +36,7 @@ ubah ke
 |Nurul Hakim    | 14117029 | https://github.com/NurulHakim/14117029-PWL |
 |Annisa Gita Asmara | 14116027 | https://github.com/aannisagita/Tugas-PWL1 |
 |Sartiah| 14116166 | https://github.com/Sartiah/14116166-TUGAS1PWL.git |
-
+|Febri Dwi Putro | 14116020 | https://github.com/febridwip/praktikum-pwl |
 |\<namalu>|\<nimlu>|\<linkgitlu>|
 
 ### Lanjutin
