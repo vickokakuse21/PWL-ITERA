@@ -41,5 +41,8 @@ ubah ke
 |Aan Sanova | 14116175 | https://github.com/papzaan/TugasPWL |
 |Muhammad Nur Faqqih |14117168| https://github.com/usagifm/14117168-PWL-ITERA |
 |Leo Viranda Millennium| 14117167 |  https://github.com/leoviranda/14117167-PWL |
+|Rizki Bhaskara M.E | 14117084 | https://github.com/rizkibhaskaraa/TugasPWL |
+
+|\<namalu>|\<nimlu>|\<linkgitlu>|
 
 ### Lanjutin
