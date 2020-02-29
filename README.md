@@ -39,7 +39,6 @@ ubah ke
 |Sartiah| 14116166 | https://github.com/Sartiah/14116166-TUGAS1PWL.git |
 |Febri Dwi Putro | 14116020 | https://github.com/febridwip/praktikum-pwl |
 |Aan Sanova | 14116175 | https://github.com/papzaan/TugasPWL |
-
-|\<namalu>|\<nimlu>|\<linkgitlu>|
+|Muhammad Nur Faqqih |14117168| https://github.com/usagifm/14117168-PWL-ITERA |
 
 ### Lanjutin
