@@ -50,6 +50,7 @@ ubah ke
 |Muhammad Affandi| 14117034 | https://github.com/affandi99/14117034-PWL |
 |Mu'minatul Faizah | 14116172 | https://github.com/MuminatulFaizah/14116172-PWL1 |
 |Virdannisa Selqy Satphira | 14117014 | https://github.com/VirdannisaSelqy/Tugas_PWL_14117014 |
+|Febiola Agatha | 14117120 | https://github.com/febiolagatha/14117120-PWL |
 
 |\<namalu>|\<nimlu>|\<linkgitlu>|
 
