@@ -44,6 +44,8 @@ ubah ke
 |Rizki Bhaskara M.E | 14117084 | https://github.com/rizkibhaskaraa/TugasPWL |
 |Genta Ari Anggoro | 14117078 | https://github.com/GentaAri/PWL-14117078 |
 |Dewi Rahayu | 14116056 | https://github.com/dewirahayu11/14116056-PWL |
+|Fadila Eka Noperta | 14116021 | https://github.com/fadilaekanoperta/14116021-PWL1 |
+
 
 |\<namalu>|\<nimlu>|\<linkgitlu>|
 
