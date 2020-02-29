@@ -35,6 +35,7 @@ ubah ke
 |Dhiko JangJaya Putra | 14117016 | https://github.com/magisto16/14117016-PWL-ITERA |
 |Nurul Hakim    | 14117029 | https://github.com/NurulHakim/14117029-PWL |
 |Annisa Gita Asmara | 14116027 | https://github.com/aannisagita/Tugas-PWL1 |
+|Mahesa Darma Satria | 14116071 | https://github.com/MahesaDS2408/Tugas-PWL1 |
 |Agustino Rahmawan|14116029|https://github.com/AgusRahm/14116029-PWL|
 |Sartiah| 14116166 | https://github.com/Sartiah/14116166-TUGAS1PWL.git |
 |Febri Dwi Putro | 14116020 | https://github.com/febridwip/praktikum-pwl |
@@ -47,7 +48,6 @@ ubah ke
 |Fadila Eka Noperta | 14116021 | https://github.com/fadilaekanoperta/14116021-PWL1 |
 |Aldi Indrawan|14117055|https://github.com/aldiindrawan12/14117055-PWL|
 |Muhammad Affandi| 14117034 | https://github.com/affandi99/14117034-PWL |
-
 
 |\<namalu>|\<nimlu>|\<linkgitlu>|
 
