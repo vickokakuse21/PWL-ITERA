@@ -43,6 +43,7 @@ ubah ke
 |Leo Viranda Millennium| 14117167 |  https://github.com/leoviranda/14117167-PWL |
 |Rizki Bhaskara M.E | 14117084 | https://github.com/rizkibhaskaraa/TugasPWL |
 |Genta Ari Anggoro | 14117078 | https://github.com/GentaAri/PWL-14117078 |
+|Dewi Rahayu | 14116056 | https://github.com/dewirahayu11/14116056-PWL |
 
 |\<namalu>|\<nimlu>|\<linkgitlu>|
 
