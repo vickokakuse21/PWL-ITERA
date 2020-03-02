@@ -53,8 +53,8 @@ ubah ke
 |Febiola Agatha | 14117120 | https://github.com/febiolagatha/14117120-PWL |
 |Abbi Kurnia R.K. | 14117160 | https://github.com/remnantmemoir/14117160-PWLTugas1 |
 |M. Anas Nasrulloh | 14117028 | https://github.com/AnasNasrull/14117028-PWL |
-|Aan Sanova | 14116175 | https://github.com/Papzaan/Praktikum1 |
 |Jefri Manurung | 14117107 | https://github.com/jefrymanurung23/TugasPWL |
+|Moch Dwiky Fajar Kasih | 14116173 | https://github.com/dwikykasih/PWL-ITERA |
 |N Edwardo Felix | 14117127 | https://github.com/edofelix/PWL-ITERA-14117127 |
 
 |\<namalu>|\<nimlu>|\<linkgitlu>|
